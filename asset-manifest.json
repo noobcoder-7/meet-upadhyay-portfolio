@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/meet-upadhyay-portfolio/static/css/main.85aaea75.css",
-    "main.js": "/meet-upadhyay-portfolio/static/js/main.a054399e.js",
+    "main.js": "/meet-upadhyay-portfolio/static/js/main.6957cab3.js",
     "static/media/speak_time.png": "/meet-upadhyay-portfolio/static/media/speak_time.2dfd42c296bbc05c69f0.png",
     "static/media/url_shortner.jpg": "/meet-upadhyay-portfolio/static/media/url_shortner.160cc7cd4d3fa5f847eb.jpg",
     "static/media/portfolio_react.jpg": "/meet-upadhyay-portfolio/static/media/portfolio_react.f5909cc7fcc25b5cc42e.jpg",
@@ -12,10 +12,10 @@
     "static/media/me.png": "/meet-upadhyay-portfolio/static/media/me.939c206f3db46315a395.png",
     "index.html": "/meet-upadhyay-portfolio/index.html",
     "main.85aaea75.css.map": "/meet-upadhyay-portfolio/static/css/main.85aaea75.css.map",
-    "main.a054399e.js.map": "/meet-upadhyay-portfolio/static/js/main.a054399e.js.map"
+    "main.6957cab3.js.map": "/meet-upadhyay-portfolio/static/js/main.6957cab3.js.map"
   },
   "entrypoints": [
     "static/css/main.85aaea75.css",
-    "static/js/main.a054399e.js"
+    "static/js/main.6957cab3.js"
   ]
 }
