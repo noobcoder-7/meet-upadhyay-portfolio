@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/meet-upadhyay-portfolio/static/css/main.850b50ae.css",
+    "main.js": "/meet-upadhyay-portfolio/static/js/main.a054399e.js",
+    "static/media/speak_time.png": "/meet-upadhyay-portfolio/static/media/speak_time.2dfd42c296bbc05c69f0.png",
+    "static/media/url_shortner.jpg": "/meet-upadhyay-portfolio/static/media/url_shortner.160cc7cd4d3fa5f847eb.jpg",
+    "static/media/portfolio_react.jpg": "/meet-upadhyay-portfolio/static/media/portfolio_react.f5909cc7fcc25b5cc42e.jpg",
+    "static/media/flask_blog.jpg": "/meet-upadhyay-portfolio/static/media/flask_blog.0888668d0d365c269fce.jpg",
+    "static/media/todo_list.jpg": "/meet-upadhyay-portfolio/static/media/todo_list.41fbb7b3a65d24e8ef3d.jpg",
+    "static/media/me-about.jpg": "/meet-upadhyay-portfolio/static/media/me-about.39adccf1bdc91bbd8648.jpg",
+    "static/media/Meet_CV.pdf": "/meet-upadhyay-portfolio/static/media/Meet_CV.434f44025abadc4bb009.pdf",
+    "static/media/me.png": "/meet-upadhyay-portfolio/static/media/me.939c206f3db46315a395.png",
+    "index.html": "/meet-upadhyay-portfolio/index.html",
+    "main.850b50ae.css.map": "/meet-upadhyay-portfolio/static/css/main.850b50ae.css.map",
+    "main.a054399e.js.map": "/meet-upadhyay-portfolio/static/js/main.a054399e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.850b50ae.css",
+    "static/js/main.a054399e.js"
+  ]
+}
