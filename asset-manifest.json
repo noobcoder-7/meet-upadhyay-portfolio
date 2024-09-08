@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/meet-upadhyay-portfolio/static/css/main.a1cf7732.css",
+    "main.css": "/meet-upadhyay-portfolio/static/css/main.85aaea75.css",
     "main.js": "/meet-upadhyay-portfolio/static/js/main.a054399e.js",
     "static/media/speak_time.png": "/meet-upadhyay-portfolio/static/media/speak_time.2dfd42c296bbc05c69f0.png",
     "static/media/url_shortner.jpg": "/meet-upadhyay-portfolio/static/media/url_shortner.160cc7cd4d3fa5f847eb.jpg",
@@ -11,11 +11,11 @@
     "static/media/Meet_CV.pdf": "/meet-upadhyay-portfolio/static/media/Meet_CV.434f44025abadc4bb009.pdf",
     "static/media/me.png": "/meet-upadhyay-portfolio/static/media/me.939c206f3db46315a395.png",
     "index.html": "/meet-upadhyay-portfolio/index.html",
-    "main.a1cf7732.css.map": "/meet-upadhyay-portfolio/static/css/main.a1cf7732.css.map",
+    "main.85aaea75.css.map": "/meet-upadhyay-portfolio/static/css/main.85aaea75.css.map",
     "main.a054399e.js.map": "/meet-upadhyay-portfolio/static/js/main.a054399e.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1cf7732.css",
+    "static/css/main.85aaea75.css",
     "static/js/main.a054399e.js"
   ]
 }
