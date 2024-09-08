@@ -9,47 +9,7 @@ const Experience = () => {
       <h2>My Experience</h2>
 
       <div className="container experience__container">
-        <div>
-          <article className='experience'>
-            <div className="experience__head">
-          <h3>Tata Consultancy Services Ltd.</h3>
-          <h5 className='text-light'>Software Developer</h5>
-          </div>        
-        <ul className="experience__list">
-        <li>
-          <p>
-          Utilised Spring Tool Suite with Node.js and PostgreSQL to work on OneWind project for GE client and providing
-results for top speed, power consumption, fuel consumption of WindMills through the application.
-          </p>
-          </li>
-          <li>
-          <p>
-          Utilised Python Flask and Spring Tool Suite, for the API integration of HPCi EMPC project for GE client.
-          </p>
-          </li>
-          <li>
-          <p>
-          Documentation of the whole application logic flow to the client side team post development, Provided KT sessions
-          and support after project handover.
-          </p>
-          </li>  
-          <li>
-          <p>
-          Acknowledged for delivering high-quality code within tight deadlines, contributing significantly to the overall
-success of <strong>2 migration projects</strong> from Predix to AWS
-          </p>
-          </li>  
-          <li>
-          <p>
-          Effectively collaborated with team members, cross functional tech, product teams and stakeholders, fostering a
-positive and productive work environment.
-          </p>
-          </li>  
-        </ul>
-
-        </article>
-        </div>
-        <div >
+      <div >
         <article className='experience'>
           <div className="experience__head">
         <h3>Axtria India Private Limited</h3>
@@ -108,6 +68,46 @@ effectiveness.
           </p>
           </li>
         </ul>
+        </article>
+        </div>
+        <div>
+          <article className='experience'>
+            <div className="experience__head">
+          <h3>Tata Consultancy Services Ltd.</h3>
+          <h5 className='text-light'>Software Developer</h5>
+          </div>        
+        <ul className="experience__list">
+        <li>
+          <p>
+          Utilised Spring Tool Suite with Node.js and PostgreSQL to work on OneWind project for GE client and providing
+results for top speed, power consumption, fuel consumption of WindMills through the application.
+          </p>
+          </li>
+          <li>
+          <p>
+          Utilised Python Flask and Spring Tool Suite, for the API integration of HPCi EMPC project for GE client.
+          </p>
+          </li>
+          <li>
+          <p>
+          Documentation of the whole application logic flow to the client side team post development, Provided KT sessions
+          and support after project handover.
+          </p>
+          </li>  
+          <li>
+          <p>
+          Acknowledged for delivering high-quality code within tight deadlines, contributing significantly to the overall
+success of <strong>2 migration projects</strong> from Predix to AWS
+          </p>
+          </li>  
+          <li>
+          <p>
+          Effectively collaborated with team members, cross functional tech, product teams and stakeholders, fostering a
+positive and productive work environment.
+          </p>
+          </li>  
+        </ul>
+
         </article>
         </div>
       </div>
